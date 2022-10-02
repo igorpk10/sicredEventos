@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sicred Event</string>
+    <string name="share_event">Compatilhar evento</string>
+    <string name="event_date">Data do evento: %s</string>
+    <string name="value">Valor: %s</string>
+    <string name="name">Nome: </string>
+    <string name="email">Email: </string>
+    <string name="ok">Ok</string>
+    <string name="you_are_in">Você já está dentro!!!</string>
+    <string name="checkin">Checkin</string>
+</resources>
